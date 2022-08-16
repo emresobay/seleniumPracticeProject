@@ -1,4 +1,4 @@
-package com.cydeo;
+package com.cydeo.tests.day1_selenium_intro;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
@@ -14,6 +14,7 @@ public class SeleniumTest {
         //2. Create instance of the chrome driver
         WebDriver driver = new ChromeDriver();
 
+        //3. Test if driver is working as expected
         driver.get("https://www.google.com");
     }
 }
