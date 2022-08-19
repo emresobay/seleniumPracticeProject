@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e71a7055-31d9-43cb-915b-737547644614" name="Changes" comment="T2 Practice">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/T3_Google_Search.java" afterDir="false" />
+    <list default="true" id="e71a7055-31d9-43cb-915b-737547644614" name="Changes" comment="T3 Practice">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/T4_LibraryVerifications.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/T2_LinkText_Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/T2_LinkText_Practice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,20 +61,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.T3_Google_Search">
-    <configuration name="BasicNavigations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day1_selenium_intro.BasicNavigations" />
-      <module name="seleniumPracticeProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day1_selenium_intro.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.T4_LibraryVerifications">
     <configuration name="T1_CydeoVerifications" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day2_locators_getText_getAttribute.T1_CydeoVerifications" />
       <module name="seleniumPracticeProject" />
@@ -115,6 +101,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="T4_LibraryVerifications" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day2_locators_getText_getAttribute.T4_LibraryVerifications" />
+      <module name="seleniumPracticeProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.tests.day2_locators_getText_getAttribute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task1_YahooTitleVerification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day1_selenium_intro.Task1_YahooTitleVerification" />
       <module name="seleniumPracticeProject" />
@@ -130,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T4_LibraryVerifications" />
         <item itemvalue="Application.T3_Google_Search" />
         <item itemvalue="Application.T2_LinkText_Practice" />
         <item itemvalue="Application.T1_CydeoVerifications" />
         <item itemvalue="Application.Task1_YahooTitleVerification" />
-        <item itemvalue="Application.BasicNavigations" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +148,9 @@
       <workItem from="1660578255868" duration="1300000" />
       <workItem from="1660579602389" duration="1681000" />
       <workItem from="1660620740967" duration="12203000" />
-      <workItem from="1660704812686" duration="8977000" />
+      <workItem from="1660704812686" duration="10956000" />
+      <workItem from="1660794356420" duration="47000" />
+      <workItem from="1660882577305" duration="1572000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1660580463660</created>
@@ -186,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660724046075</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="T3 Practice">
+      <created>1660739150667</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1660739150667</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,7 +215,8 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="updated" />
     <MESSAGE value="T2 Practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="T2 Practice" />
+    <MESSAGE value="T3 Practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="T3 Practice" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
