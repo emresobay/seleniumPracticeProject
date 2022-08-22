@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e71a7055-31d9-43cb-915b-737547644614" name="Changes" comment="T4 Practice">
+    <list default="true" id="e71a7055-31d9-43cb-915b-737547644614" name="Changes" comment="T5 Practice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/T5_getText_getAttribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/T5_getText_getAttribute.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +149,10 @@
       <workItem from="1660620740967" duration="12203000" />
       <workItem from="1660704812686" duration="10956000" />
       <workItem from="1660794356420" duration="47000" />
-      <workItem from="1660882577305" duration="3272000" />
+      <workItem from="1660882577305" duration="3893000" />
+      <workItem from="1661131537467" duration="431000" />
+      <workItem from="1661132000405" duration="732000" />
+      <workItem from="1661136025549" duration="659000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1660580463660</created>
@@ -201,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660886904145</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="T5 Practice">
+      <created>1660888579233</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1660888579233</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,7 +233,8 @@
     <MESSAGE value="T2 Practice" />
     <MESSAGE value="T3 Practice" />
     <MESSAGE value="T4 Practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="T4 Practice" />
+    <MESSAGE value="T5 Practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="T5 Practice" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
