@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e71a7055-31d9-43cb-915b-737547644614" name="Changes" comment="T5 Practice">
+    <list default="true" id="e71a7055-31d9-43cb-915b-737547644614" name="Changes" comment="Task Name Updated">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/WebDriverFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day3_cssSelector_xpath/T1_locators_getText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day3_cssSelector_xpath/T1_locators_getText.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,28 +47,28 @@
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propCompiler"
   }
-}</component>
-  <component name="RunManager" selected="Application.T5_getText_getAttribute">
-    <configuration name="T1_CydeoVerifications" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day2_locators_getText_getAttribute.T1_CydeoVerifications" />
+}]]></component>
+  <component name="RunManager" selected="Application.T1_locators_getText">
+    <configuration name="T1_locators_getText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day3_cssSelector_xpath.T1_locators_getText" />
       <module name="seleniumPracticeProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day2_locators_getText_getAttribute.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day3_cssSelector_xpath.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T1_locators_getText" />
         <item itemvalue="Application.T5_getText_getAttribute" />
         <item itemvalue="Application.T4_LibraryVerifications" />
         <item itemvalue="Application.T3_Google_Search" />
         <item itemvalue="Application.T2_LinkText_Practice" />
-        <item itemvalue="Application.T1_CydeoVerifications" />
       </list>
     </recent_temporary>
   </component>
@@ -153,6 +155,7 @@
       <workItem from="1661131537467" duration="431000" />
       <workItem from="1661132000405" duration="732000" />
       <workItem from="1661136025549" duration="659000" />
+      <workItem from="1661137239020" duration="3854000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1660580463660</created>
@@ -210,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660888579233</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Task Name Updated">
+      <created>1661137379942</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661137379942</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,7 +244,8 @@
     <MESSAGE value="T3 Practice" />
     <MESSAGE value="T4 Practice" />
     <MESSAGE value="T5 Practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="T5 Practice" />
+    <MESSAGE value="Task Name Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task Name Updated" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
