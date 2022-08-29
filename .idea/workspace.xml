@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e71a7055-31d9-43cb-915b-737547644614" name="Changes" comment="T4 task completed">
+    <list default="true" id="e71a7055-31d9-43cb-915b-737547644614" name="Changes" comment="T5 task completed">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/practicePackage/PracticeClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4_findElements_checkboxes_radio/T5_checkboxes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4_findElements_checkboxes_radio/T5_checkboxes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4_findElements_checkboxes_radio/T6_StaleElementReferenceException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4_findElements_checkboxes_radio/T6_StaleElementReferenceException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,13 +62,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.T5_checkboxes">
-    <configuration name="T1_xpath_cssSelector_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day4_findElements_checkboxes_radio.T1_xpath_cssSelector_practice" />
+  <component name="RunManager" selected="Application.PracticeClass">
+    <configuration name="PracticeClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.practicePackage.PracticeClass" />
       <module name="seleniumPracticeProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day4_findElements_checkboxes_radio.*" />
+          <option name="PATTERN" value="com.cydeo.tests.practicePackage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T3_getAttribute_cssSelector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day3_cssSelector_xpath.T3_getAttribute_cssSelector" />
+    <configuration name="T1_xpath_cssSelector_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day4_findElements_checkboxes_radio.T1_xpath_cssSelector_practice" />
       <module name="seleniumPracticeProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day3_cssSelector_xpath.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day4_findElements_checkboxes_radio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PracticeClass" />
         <item itemvalue="Application.T5_checkboxes" />
         <item itemvalue="Application.T4_findElements" />
         <item itemvalue="Application.T1_xpath_cssSelector_practice" />
         <item itemvalue="Application.T4_cssSelector_getText" />
-        <item itemvalue="Application.T3_getAttribute_cssSelector" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +158,10 @@
       <workItem from="1661137239020" duration="3937000" />
       <workItem from="1661141349120" duration="9417000" />
       <workItem from="1661224678317" duration="1341000" />
-      <workItem from="1661228290446" duration="8275000" />
+      <workItem from="1661228290446" duration="9693000" />
+      <workItem from="1661394931060" duration="19000" />
+      <workItem from="1661598745723" duration="1937000" />
+      <workItem from="1661653944335" duration="1176000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1660580463660</created>
@@ -264,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661242337691</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="T5 task completed">
+      <created>1661248858503</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1661248858503</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -294,7 +305,8 @@
     <MESSAGE value="T3 task completed" />
     <MESSAGE value="T1 task completed" />
     <MESSAGE value="T4 task completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="T4 task completed" />
+    <MESSAGE value="T5 task completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="T5 task completed" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
