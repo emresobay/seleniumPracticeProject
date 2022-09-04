@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e71a7055-31d9-43cb-915b-737547644614" name="Changes" comment="T2 completed">
+    <list default="true" id="e71a7055-31d9-43cb-915b-737547644614" name="Changes" comment="T3 completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5_testNG_intro_dropdowns/T3_radioButton_cont.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5_testNG_intro_dropdowns/T3_radioButton_cont.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5_testNG_intro_dropdowns/T4_SimpleDropdowns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5_testNG_intro_dropdowns/T4_SimpleDropdowns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5_testNG_intro_dropdowns/TestNG_Intro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5_testNG_intro_dropdowns/TestNG_Intro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5_testNG_intro_dropdowns/TestNG_Selenium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5_testNG_intro_dropdowns/TestNG_Selenium.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,20 +63,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.T3_RadioButton_cont">
-    <configuration name="PracticeClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.practicePackage.PracticeClass" />
-      <module name="seleniumPracticeProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.practicePackage.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.TestNG_Selenium">
     <configuration name="T1_StaleElementRefEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day5_testNG_intro_dropdowns.T1_StaleElementRefEx" />
       <module name="seleniumPracticeProject" />
@@ -114,26 +103,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T5_checkboxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day4_findElements_checkboxes_radio.T5_checkboxes" />
+    <configuration name="T4_SimpleDropdowns" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumPracticeProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day4_findElements_checkboxes_radio.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day5_testNG_intro_dropdowns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day5_testNG_intro_dropdowns" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day5_testNG_intro_dropdowns.T4_SimpleDropdowns" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNG_Selenium" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumPracticeProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.tests.day5_testNG_intro_dropdowns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day5_testNG_intro_dropdowns" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day5_testNG_intro_dropdowns.TestNG_Selenium" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestNG_Selenium" />
+        <item itemvalue="TestNG.T4_SimpleDropdowns" />
         <item itemvalue="Application.T3_RadioButton_cont" />
         <item itemvalue="Application.T3_radioButton_cont" />
         <item itemvalue="Application.T1_StaleElementRefEx" />
-        <item itemvalue="Application.PracticeClass" />
-        <item itemvalue="Application.T5_checkboxes" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +175,7 @@
       <workItem from="1661822943892" duration="182000" />
       <workItem from="1661827243498" duration="3096000" />
       <workItem from="1661999555288" duration="34000" />
-      <workItem from="1662284652157" duration="2299000" />
+      <workItem from="1662284652157" duration="5450000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1660580463660</created>
@@ -307,7 +317,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662285891694</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="T3 completed">
+      <created>1662287105837</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1662287105837</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -342,7 +359,8 @@
     <MESSAGE value="tasks name completed" />
     <MESSAGE value="T1 completed" />
     <MESSAGE value="T2 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="T2 completed" />
+    <MESSAGE value="T3 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="T3 completed" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
