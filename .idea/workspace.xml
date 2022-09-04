@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e71a7055-31d9-43cb-915b-737547644614" name="Changes" comment="T1 completed">
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5_testNG_intro_dropdowns/T2_RadioButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5_testNG_intro_dropdowns/T2_RadioButton.java" afterDir="false" />
+    <list default="true" id="e71a7055-31d9-43cb-915b-737547644614" name="Changes" comment="T2 completed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5_testNG_intro_dropdowns/T3_radioButton_cont.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5_testNG_intro_dropdowns/T3_radioButton_cont.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +61,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.T1_StaleElementRefEx">
+  <component name="RunManager" selected="Application.T3_RadioButton_cont">
     <configuration name="PracticeClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.practicePackage.PracticeClass" />
       <module name="seleniumPracticeProject" />
@@ -87,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T1_xpath_cssSelector_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day4_findElements_checkboxes_radio.T1_xpath_cssSelector_practice" />
+    <configuration name="T3_RadioButton_cont" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day5_testNG_intro_dropdowns.T3_RadioButton_cont" />
       <module name="seleniumPracticeProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day4_findElements_checkboxes_radio.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day5_testNG_intro_dropdowns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T4_findElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day4_findElements_checkboxes_radio.T4_findElements" />
+    <configuration name="T3_radioButton_cont" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day5_testNG_intro_dropdowns.T3_radioButton_cont" />
       <module name="seleniumPracticeProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day4_findElements_checkboxes_radio.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day5_testNG_intro_dropdowns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T3_RadioButton_cont" />
+        <item itemvalue="Application.T3_radioButton_cont" />
         <item itemvalue="Application.T1_StaleElementRefEx" />
         <item itemvalue="Application.PracticeClass" />
         <item itemvalue="Application.T5_checkboxes" />
-        <item itemvalue="Application.T4_findElements" />
-        <item itemvalue="Application.T1_xpath_cssSelector_practice" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +165,7 @@
       <workItem from="1661822943892" duration="182000" />
       <workItem from="1661827243498" duration="3096000" />
       <workItem from="1661999555288" duration="34000" />
-      <workItem from="1662284652157" duration="1205000" />
+      <workItem from="1662284652157" duration="2299000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1660580463660</created>
@@ -299,7 +300,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662285493191</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="T2 completed">
+      <created>1662285891694</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1662285891694</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -333,7 +341,8 @@
     <MESSAGE value="task completed" />
     <MESSAGE value="tasks name completed" />
     <MESSAGE value="T1 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="T1 completed" />
+    <MESSAGE value="T2 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="T2 completed" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
